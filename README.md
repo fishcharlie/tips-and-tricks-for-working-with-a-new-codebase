@@ -1,0 +1,3 @@
+# Tips and Tricks for Working with a New Codebase
+
+Working with a new, established codebase can be very difficult. With so many files, classes, methods, and more, navigating the codebase to complete a task can be daunting. In this talk I will be going over some quick tips and tricks you can use to help learn a new codebase. I will cover everything from Xcode tricks to learn a new codebase faster, to organizational and process tips to stay organized in a new codebase. Navigating a new codebase is never easy, but by the end of this talk you’ll have more resources to jump into a new codebase and start tackling those tickets in a more efficient way.
